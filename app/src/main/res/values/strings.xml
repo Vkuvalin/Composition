@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Composition</string>
+    <string name="welcome_logo">Welcome logo</string>
+    <string name="app_name_title">Состав числа</string>
+    <string name="game_rules">Правила игры: перед вами будет три фигуры (две снизу и одна сверху), в двух из них будут числа. Необходимо, чтобы сумма чисел из двух нижних фигур была равна числу в верхней фигуре, для этого нужно вставить недостающее число. \n \nПример: в верхнем круге число 7, в одном из нижних знак вопроса, а в другом число 4. Значит, на месте вопросительного знака должно быть число 3, поэтому что 3 + 4 = 7</string>
+    <string name="button_understand_text">ПОНЯТНО</string>
+    <string name="lvl_name_test">ТЕСТОВЫЙ</string>
+    <string name="lvl_name_easy">ЛЕГКИЙ</string>
+    <string name="lvl_name_normal">СРЕДНИЙ</string>
+    <string name="lvl_name_hard">ТЯЖЕЛЫЙ</string>
+    <string name="question_mark">\?</string>
+    <string name="progress_answers">Правильных ответов: %s (минимум %s)</string>
+    <string name="game_over">Game Over</string>
+    <string name="text_required_answers">Необходимое количество правильных ответов: %s</string>
+    <string name="your_scope">Ваш счет: %s</string>
+    <string name="good_answers">Необходимый процент правильных ответов: %s</string>
+    <string name="need_good_answers">Процент правильных ответов: %s</string>
+    <string name="button_retry_text">ПОПРОБОВАТЬ СНОВА</string>
+</resources>
