@@ -10,6 +10,8 @@ import com.example.composition.R
 import com.example.composition.databinding.FragmentWelcomeBinding
 
 
+// Просто для теста пишу. Потом удали.
+
 class WelcomeFragment : Fragment() {
 
     /* ####################################### ПЕРЕМЕННЫЕ ####################################### */
